@@ -1,80 +1,177 @@
-# 💫 About Me
 
-🚀 I'm currently working on Django & Django REST Framework projects<br>
-🤝 I'm looking to collaborate on Python backend and REST API projects<br>
-🌱 I'm currently learning advanced Django, REST APIs, SQL & AWS<br>
-💬 Ask me about Python, Django, Django REST Framework & SQL<br>
-📚 I'm also improving my problem-solving and DSA skills<br>
-🎯 Goal: To grow as a Python Backend Developer
 
----
 
-## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyoti-ranjan-barik-82ab70355/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jyotiranjanbarik802@gmail.com)
+<!-- ===================== HEADER ===================== -->
 
----
+<div align="center">
 
-## 💻 Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Jyoti%20Ranjan%20Barik&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;Django+%7C+Django+REST+Framework;Building+REST+APIs+%26+Backend+Systems;Learning+SQL+%26+AWS;Always+Learning%2C+Always+Building" alt="Typing SVG"/> </a>
 
-### Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+<br><br>
 
-### Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<a href="https://github.com/JyotiRanjan784"> <img src="https://img.shields.io/github/followers/JyotiRanjan784?label=Followers&style=for-the-badge&logo=github"/> </a>
 
-### Database
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+<a href="https://github.com/JyotiRanjan784?tab=repositories"> <img src="https://img.shields.io/github/stars/JyotiRanjan784?label=Stars&style=for-the-badge&logo=github"/> </a>
 
-### Cloud & Version Control
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+</div>
 
----
+👨‍💻 About Me
+🚀 Python Backend Developer in progress
+⚙️ Currently building Django & Django REST Framework projects
+🔗 Interested in REST APIs and backend development
+🗄️ Learning SQL and database concepts
+☁️ Exploring AWS and cloud technologies
+🧠 Improving problem-solving and DSA
+🎯 Goal: Grow as a Python Backend Developer
+🛠️ Tech Stack
+💻 Languages
+<p> <img src="https://skillicons.dev/icons?i=python,html,css,js" alt="Python HTML CSS JavaScript"/> </p>
 
-## 🚀 Featured Projects
+⚙️ Backend & Frameworks
+<p> <img src="https://skillicons.dev/icons?i=django" alt="Django"/> </p>
 
-### 📊 Customer Churn Prediction for a Telecom Operator
 
+
+🗄️ Database
+<p> <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite"/> </p>
+
+☁️ Cloud & Development Tools
+<p> <img src="https://skillicons.dev/icons?i=aws,git,github,vscode" alt="AWS Git GitHub VS Code"/> </p>
+
+🤖 Data & Machine Learning
+
+
+
+
+🌱 Currently learning: Advanced Django • REST APIs • SQL • AWS • DSA
+
+🚀 Featured Projects
+<table> <tr>
+
+<td width="50%" valign="top">
+
+📊 Customer Churn Prediction
 A machine learning project that predicts customers who are likely to leave a telecom service.
 
-**Technologies:** Python, Pandas, Machine Learning, Jupyter Notebook
+🔹 Highlights
+Exploratory Data Analysis
 
-🔗 [View Project](JyotiRanjan784/customer-churn-ml-project)
+Data preprocessing
 
----
+Churn factor analysis
 
-### 🛒 E-Commerce Website
+Machine learning prediction
 
-A web application developed using Django for managing an e-commerce workflow.
+Customer retention use case
 
-**Technologies:** Python, Django, SQLite, HTML, CSS, JavaScript, Bootstrap
+🧰 Technologies
+Python Pandas Scikit-Learn Jupyter Notebook
 
-🔗 [View Project](JyotiRanjan784/django-ecommerce-platform)
+<br>
 
----
+<a href="https://github.com/JyotiRanjan784/customer-churn-ml-project"> <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View Customer Churn Project"/> </a>
 
-## 📊 GitHub Stats
+</td>
 
-![](https://github-readme-stats.shion.dev/api?username=JyotiRanjan784&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<td width="50%" valign="top">
 
-![](https://streak-stats.demolab.com/?user=JyotiRanjan784&theme=dark&hide_border=false)
+🛒 Django E-Commerce Platform
+A full-stack e-commerce web application built with Django.
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=JyotiRanjan784&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🔹 Features
+Product browsing
 
----
+Shopping cart
 
-### 🔝 Top Contributed Repo
+Cart management
 
-![](https://github-contributor-stats.vercel.app/api?username=JyotiRanjan784&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Checkout
+
+Order tracking
+
+Online payment integration
+
+🧰 Technologies
+Python Django HTML CSS JavaScript
+
+<br>
+
+<a href="https://github.com/JyotiRanjan784/django-ecommerce-platform"> <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View Django E-Commerce Project"/> </a>
+
+</td>
+
+</tr> </table>
+
+🧠 DSA & Problem Solving
+I'm consistently practicing Data Structures & Algorithms using Python.
+
+📚 Current Practice
+Arrays
+Strings
+Hashing
+Two Pointers
+Sliding Window
+Recursion
+Sorting
+Searching
+Linked Lists
+Stack & Queue
+🔥 Daily Practice
+I regularly push my DSA and LeetCode solutions to GitHub.
+
+<a href="https://github.com/JyotiRanjan784/DSA-Solutions"> <img src="https://img.shields.io/badge/DSA%20Solutions-View%20Repository-181717?style=for-the-badge&logo=github" alt="DSA Solutions"/> </a>
+
+📈 GitHub Activity
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JyotiRanjan784&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak"/>
+
+</div>
+
+🎯 2026 Learning Goals
+Goal	Progress
+🐍 Advanced Django	████████████████░░░░ 80%
+🔗 Django REST Framework	███████████████░░░░░ 75%
+🗄️ SQL & DBMS	██████████████░░░░░░ 70%
+☁️ AWS	███████████░░░░░░░░░ 55%
+🧠 DSA	████████████░░░░░░░░ 60%
+🚀 Backend Projects	██████████░░░░░░░░░░ 50%
+🌱 Currently Learning
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,aws,git,github,sqlite" alt="Python Django AWS Git GitHub SQLite"/>
+
+</p>
+
+<p align="center">
+
+<strong>Python Backend • Django • REST APIs • SQL • AWS • DSA</strong>
+
+</p>
+
+🤝 Let's Connect
+<div align="center">
+
+<a href="https://www.linkedin.com/in/jyoti-ranjan-barik-82ab70355/"> <img src="https://img.shields.io/badge/LinkedIn-Jyoti%20Ranjan%20Barik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a>
+
+<a href="mailto:jyotiranjanbarik802@gmail.com"> <img src="https://img.shields.io/badge/Gmail-jyotiranjanbarik802%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a>
+
+<a href="https://github.com/JyotiRanjan784"> <img src="https://img.shields.io/badge/GitHub-JyotiRanjan784-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a>
+
+</div>
+
+<div align="center">
+
+💡 Build. Learn. Solve. Repeat.
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=JyotiRanjan784&style=for-the-badge" alt="Profile Views"/>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%"/>
